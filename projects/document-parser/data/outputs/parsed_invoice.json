@@ -1,0 +1,29 @@
+{
+  "vendor_name": "ACME Hardware & Tech Ltd.",
+  "invoice_number": "INV-2026-9981",
+  "transaction_date": "2026-03-14",
+  "line_items": [
+    {
+      "description": "Ergonomic Mesh Chair",
+      "quantity": 2,
+      "unit_price": 250.0,
+      "total_amount": 500.0
+    },
+    {
+      "description": "USB-C Docking Station",
+      "quantity": 1,
+      "unit_price": 180.0,
+      "total_amount": 180.0
+    },
+    {
+      "description": "Cat6 Ethernet Cable (10ft)",
+      "quantity": 4,
+      "unit_price": 12.5,
+      "total_amount": 50.0
+    }
+  ],
+  "subtotal": 730.0,
+  "tax_amount": 62.05,
+  "total_amount": 792.05,
+  "is_paid": true
+}

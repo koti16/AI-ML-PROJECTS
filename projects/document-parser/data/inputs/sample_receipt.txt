@@ -1,0 +1,17 @@
+
+        ACME Hardware & Tech Ltd. - RECEIPT #INV-2026-9981
+        Date of Sale: March 14, 2026
+        Customer Account: TechCorp Inc.
+
+        Purchased Items:
+        1. Ergonomic Mesh Chair - Qty: 2 @ $250.00 each -> $500.00
+        2. USB-C Docking Station - Qty: 1 @ $180.00 each -> $180.00
+        3. Cat6 Ethernet Cable (10ft) - Qty: 4 @ $12.50 each -> $50.00
+
+        ---------------------------------------------------------
+        Subtotal: $730.00
+        Sales Tax (8.5%): $62.05
+        TOTAL DUE: $792.05
+
+        Payment Method: Visa ending in 1104 [PAID IN FULL]
+        
